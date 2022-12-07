@@ -1,0 +1,39 @@
+/**** index css****/
+
+.location{
+    text-align: center;
+ }
+ .h1{
+    font-size: 45px;
+    color:brown;
+ }
+ .nav{
+    font-size: 25px;
+ }
+ .a-anabaslik1{
+    font-size: 30px;
+    color:blueviolet;
+ }
+ .size{
+    font-size: large;
+ }
+ .a-alt{
+    font-size: large;
+    color:darkgoldenrod;
+ }
+ .a-ul{
+    list-style-type: none;
+ }
+
+ /**** product css****/
+.p-ol{
+    list-style-position: inside;
+}
+
+ /**** about-us css****/
+.about-h1-color{
+    color:darkgoldenrod;
+}
+.about-us-p{
+   text-align: left;
+}
